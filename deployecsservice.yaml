@@ -10,7 +10,7 @@ Parameters:
    vpcid:
       Type: String
       Description: Enter the vpcid
-      Default: vpc-a222f6d8
+      Default: vpc-0ed482f85fab69332
    elbname:
       Type: String
       Description: Enter the elasticloadbalancer name
@@ -18,11 +18,11 @@ Parameters:
    firstsubnetid:
       Type: String
       Description: Enter the first-subnet-id to use with elb
-      Default: subnet-39962d5e
+      Default: subnet-055affaec55b42296
    secondsubnetid:
       Type: String
       Description: Enter the second-subnet-id to use with elb 
-      Default: subnet-d697dc9c
+      Default: subnet-0997110aae317a60e
    clustername:
       Type: String
       Description: Enter the cluster name
